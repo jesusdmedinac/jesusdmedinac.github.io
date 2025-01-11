@@ -60,6 +60,169 @@
         "Kotlin Multiplatform",
         "Compose Multiplatform"
       ]
+    },
+    {
+      "name": "arol.dev",
+      "position": "Kotlin Instructor",
+      "location_type": "Remote",
+      "location": "Remote",
+      "url": "https://www.arol.dev/",
+      "startDate": "2024-10",
+      "endDate": "2024-11",
+      "summary": "Developed comprehensive curriculum for Kotlin Course",
+      "highlights": [],
+      "responsibilities": [
+        "Advanced Kotlin",
+        "Testing with Kotlin",
+        "BDD, TDD and Best practices",
+        "Gradle and Kotlin DSL",
+        "Kotlin Coroutines",
+        "Flow and StateFlow",
+        "Testing Coroutines"
+      ],
+      "skills": [
+        "Kotlin",
+        "Coroutines",
+        "Functional Programming"
+      ]
+    },
+    {
+      "name": "Freelance",
+      "position": "Mobile Software Consultant",
+      "location_type": "Remote",
+      "location": "Remote",
+      "startDate": "2021-03",
+      "endDate": "2024-02",
+      "summary": "During this period, I worked as a Mobile Software Consultant, combining my leadership role at Bubble with consulting across various companies. My focus was on mobile development using Kotlin Multiplatform (KMP) to create cross-platform experiences.\n\nThis period emphasized my leadership, expertise in KMP, and the ability to drive innovation in mobile solutions.",
+      "highlights": [],
+      "responsibilities": [
+        "Founder & CEO, Bubble (2024 - Present): Led the development of a smartphone addiction management app, using AI-powered chats and Firebase Remote Config to personalize experiences and optimize updates. I oversaw A/B testing and feature rollouts to boost user engagement and retention.",
+        "Mobile Software Engineer, Beek.io (2022 - 2023): Developed a new audio player using Kotlin Multiplatform, SwiftUI, and Jetpack Compose. Implemented automated CI/CD pipelines with CircleCI and Fastlane, streamlining the development and deployment process.",
+        "Android Mobile Developer, Globant (2022): Analyzed projects written in Kotlin and Java, focusing on serverless, GraphQL, and RESTful APIs. Created detailed documentation and identified code improvement opportunities.",
+        "Android Engineer, Bitso (2021 - 2022): Integrated CleverTap using KMP, unifying codebases for Android and iOS. Streamlined development and reduced maintenance overhead while focusing on user acquisition strategies.",
+        "Senior Software Engineer Mobile, Dexcom (2021): Enhanced functionality and code quality for internal mobile apps. Introduced unit tests for Kotlin and Java SDKs, improving code coverage and stability."
+      ],
+      "skills": [
+        "Android",
+        "iOS",
+        "Kotlin Multiplatform",
+        "Jetpack Compose",
+        "SwiftUI",
+        "Kotlin",
+        "Java",
+        "Kotlin Coroutines"
+      ]
+    },
+    {
+      "name": "arol.dev",
+      "position": "Kotlin Multiplatform Instructor",
+      "location_type": "Remote",
+      "location": "Remote",
+      "url": "https://www.arol.dev/",
+      "startDate": "2023-11",
+      "endDate": "2023-12",
+      "summary": "Developed comprehensive curriculum for Kotlin Multiplatform Course",
+      "highlights": [],
+      "responsibilities": [
+        "Kotlin Multiplatform for Android, iOS, Web, Desktop and Server",
+        "Clean Architecture on KMP.",
+        "Testing on KMP.",
+        "Compose Multiplatform.",
+        "How to introduce your teammates/company to use KMP.",
+        "Collaborated with Arol.dev team to refine course content including proposing subject list changes.",
+        "Created engaging learning materials",
+        "Articles.",
+        "Live sessions.",
+        "Codelabs.",
+        "Videos"
+      ],
+      "skills": [
+        "Kotlin",
+        "Kotlin Multiplatform",
+        "Compose Multiplatform",
+        "Swift (Programming Language)",
+        "SwiftUI"
+      ]
+    },
+    {
+      "name": "Insulet Corporation",
+      "position": "Software Engineer",
+      "location_type": "On site",
+      "location": "Tijuana, Baja California, Mexico",
+      "startDate": "2019-11",
+      "endDate": "2021-03",
+      "summary": "Spearheaded the development of the VIEW app, empowering caregivers to monitor the health of individuals with diabetes.",
+      "highlights": [],
+      "responsibilities": [
+        "Led the creation of the VIEW app from scratch, enabling caregivers to remotely monitor the health status of individuals with diabetes.",
+        "Championed modern development practices, including Java and Kotlin for app development, unit testing, TDD (Test Driven Development), Room for data persistence, Clean Architecture, and DDD (Domain Driven Development).",
+        "Successfully developed and launched the VIEW app for Android.",
+        "Pioneered the transition from Java to Kotlin within the company, paving the way for a more modern development approach.",
+        "Successfully implemented TDD, setting a precedent for effective and efficient development practices.",
+        "Mentored junior engineers and trainees, fostering their growth and expertise.",
+        "Introduced KMP (Kotlin Multiplatform) as the first engineer within the company, successfully convincing management and the team to adopt it for the development of the CGM (Continuous Glucose Monitor) Graph, a critical component used across multiple Android and iOS applications."
+      ],
+      "skills": [
+        "Android",
+        "iOS",
+        "Kotlin Multiplatform",
+        "Kotlin",
+        "Java"
+      ]
+    },
+    {
+      "name": "ArkusNexus",
+      "position": "Full Stack Developer",
+      "location_type": "On site",
+      "location": "Tijuana, Baja California, Mexico",
+      "startDate": "2019-04",
+      "endDate": "2019-11",
+      "summary": "Developed the Simplicity app, a cutting-edge Android solution for auto insurance usage-based billing.\nEmpowered seniors to preserve memories and connect with loved ones through Rosy, an intelligent assistant for scanning and storytelling.",
+      "highlights": [],
+      "responsibilities": [
+        "Crafted the Simplicity app from the ground up, leveraging Android technologies to enable users to track their car usage and receive personalized insurance pricing.",
+        "Harnessing the power of Bluetooth, the app seamlessly connects to the user's vehicle, accurately capturing location data and calculating driving distances.",
+        "Utilized a robust tech stack, including Java for app development, XML for UI design, the native Bluetooth system, Room for data persistence, and Retrofit as an HTTP client.",
+        "Contributed to the development of Rosy, an innovative assistant that enables seniors to easily scan and store physical documents and photos, transforming them into cherished digital memories.",
+        "Leveraged Java expertise to resolve native system bugs, ensuring a seamless user experience.",
+        "Expanded Rosy's capabilities by implementing new functionalities using React Native, JavaScript, and JSX, empowering users to create and share stories associated with their scanned items.",
+        "Introduced voice-activated calling functionality utilizing text-to-speech technology, enabling hands-free communication and enhancing accessibility for seniors."
+      ],
+      "skills": [
+        "Java",
+        "Android",
+        "JavaScript",
+        "React Native"
+      ]
+    },
+    {
+      "name": "Compus Sistemas Express",
+      "position": "Native Android Developer",
+      "location_type": "On site",
+      "location": "Tijuana, Baja California, Mexico",
+      "startDate": "2014-06",
+      "endDate": "2017-06",
+      "summary": "Spearheaded the digital transformation of a company's internal systems, streamlining operations and enhancing efficiency through a suite of Android applications",
+      "highlights": [],
+      "responsibilities": [
+        "Led the development of multiple Android apps to replace legacy systems, including:",
+        "A streamlined process for purchasing used cars.",
+        "An efficient system for managing material inflow and outflow.",
+        "A collaborative network for branch managers to communicate and assist customers in locating used parts across branches.",
+        "Leveraged Java and XML to craft user-friendly and robust Android applications.",
+        "Architected and implemented a backend system utilizing vanilla PHP to generate JSONs consumed by the mobile apps.",
+        "Employed MySQL and DBase as the primary database solutions.",
+        "Developed SDKs to facilitate seamless REST API consumption from Android devices.",
+        "Implemented various backend algorithms, including PDF and XML generation, enhancing system functionality."
+      ],
+      "skills": [
+        "Android",
+        "Java",
+        "PHP",
+        "MySQL",
+        "XML",
+        "DBase"
+      ]
     }
   ],
   "volunteer": [
@@ -72,14 +235,40 @@
       "studyType": "Bachelor",
       "startDate": "2017-06-01",
       "endDate": "2018-06-01",
-      "score": "3.8",
-      "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
-      ]
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Universidad Tecnológica de Tijuana",
+      "url": "https://uttijuana.edu.mx/",
+      "area": "Técnico Superior Universitario, Tecnologías de la información y Comunicación área Sistemas Informáticos",
+      "studyType": "Bachelor",
+      "startDate": "2015-06",
+      "endDate": "2017-06",
+      "score": "",
+      "courses": []
     }
   ],
-  "certificates": [],
+  "certificates": [
+    {
+      "name": "Python Crash Course",
+      "date": "2024-09",
+      "issuer": "ITJ",
+      "url": "https://micoach.itj.com/candidate/622aae059cd99c00133f54e3/achievements/671be8eb2c9b4b9988af7cb1"
+    },
+    {
+      "name": "Architect Coders",
+      "date": "2020-04",
+      "issuer": "DevExpert.io",
+      "url": "https://members.architectcoders.com/verify-certificate/?id=122-158-819-3618"
+    },
+    {
+      "name": "Kotlin para Desarrolladores Android",
+      "date": "2019-09",
+      "issuer": "DevExpert.io",
+      "url": "https://hotmart.com/es/club/product/373977/certificate/556263c2-77d8-4160-a846-4c01cb51a617-476072313/validate"
+    }
+  ],
   "skills": [
     {
       "name": "Kotlin",
