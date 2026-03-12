@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Jesús Daniel Medina Cruz",
-    "label": "Kotlin Mobile Engineer",
+    "label": "Kotlin Multiplatform (KMP) Expert | Senior Mobile Software Engineer",
     "image": "/me_avatar.jpg",
-    "email": "hi@jesusdmedinac.com",
-    "phone": "+52 6645142608",
-    "url": "https://jesusdmedinac.dev",
-    "summary": "I am a Kotlin Mobile Engineer expert in Kotlin and Compose",
+    "email": "jesus.daniel.medina.cruz@gmail.com",
+    "phone": "+526645142608",
+    "url": "https://jesusdmedinac.com",
+    "summary": "Pragmatic, disciplined, and growth-oriented software engineer with 10 years of mobile development experience. Expert in architecting highly scalable solutions using Kotlin Multiplatform (KMP) to maximize code sharing across Android, iOS, desktop, web, and server environments without sacrificing native performance. Proven track record of leading migrations, modernizing legacy systems, and establishing robust CI/CD pipelines to accelerate delivery cycles in fast-paced startup and enterprise environments.",
     "theme": "default",
     "location": {
       "address": "",
@@ -35,132 +35,90 @@
   },
   "work": [
     {
-      "name": "Academia Desde0",
-      "position": "Android Developer",
-      "location_type": "On site",
-      "location": "Tijuana, Baja California, Mexico",
-      "url": "https://desde0.jesusdmedinac.com",
-      "startDate": "2024-02",
+      "name": "HansellApp",
+      "position": "Senior Kotlin Multiplatform Engineer",
+      "location_type": "Remote",
+      "location": "Atlanta, GA",
+      "startDate": "2025-01",
       "endDate": null,
-      "summary": "Desde0 Academy is an innovative platform dedicated to empowering individuals to kickstart their careers in software development. We focus on delivering high-quality, hands-on training in mobile and web development, designed for students of all levels, from beginners to advanced developers. Our curriculum covers modern programming languages, frameworks, and development practices for web, mobile, desktop and server development.",
+      "summary": "Lead the cross-platform technical strategy for an All-in-One Real Estate Management Suite designed to simplify property management and enhance tenant communication.",
+      "url": "",
       "highlights": [],
       "responsibilities": [
-        "Developed the curriculum for all the courses"
+        "Architect the shared business logic layer using Kotlin Multiplatform, drastically reducing duplicate code and ensuring feature parity across platforms.",
+        "Implement MVVM architecture with shared Kotlin ViewModels, Coroutines, and Flow, achieving clear separation between views and business logic.",
+        "Integrate shared RESTful API clients using Ktor to fetch and securely present sensitive business documents.",
+        "Automate cross-platform build and deployment workflows ensuring smooth CI/CD pipelines for beta testing and rapid production releases."
       ],
       "skills": [
-        "JavaScript",
-        "Web Development",
-        "MySQL",
-        "Next.js",
-        "Node.js",
-        "React.js",
-        "React Native",
-        "Expo",
-        "Kotlin",
         "Kotlin Multiplatform",
-        "Compose Multiplatform"
+        "Ktor",
+        "MVVM",
+        "Coroutines",
+        "Flow",
+        "CI/CD"
       ]
     },
     {
-      "name": "arol.dev",
-      "position": "Kotlin Instructor",
+      "name": "Academia Desde0",
+      "position": "Senior Mobile Developer & Instructor",
       "location_type": "Remote",
       "location": "Remote",
-      "url": "https://www.arol.dev/",
-      "startDate": "2024-10",
-      "endDate": "2024-11",
-      "summary": "Developed comprehensive curriculum for Kotlin Course",
+      "startDate": "2024-02",
+      "endDate": "2024-12",
+      "url": "https://desde0.jesusdmedinac.com",
+      "summary": "Directed curriculum development at a training platform founded to democratize access to high-quality tech education for Spanish-speaking communities.",
       "highlights": [],
       "responsibilities": [
-        "Advanced Kotlin",
-        "Testing with Kotlin",
-        "BDD, TDD and Best practices",
-        "Gradle and Kotlin DSL",
-        "Kotlin Coroutines",
-        "Flow and StateFlow",
-        "Testing Coroutines"
+        "Led the design and delivery of practical mobile development curricula, with a strong focus on cross-platform strategies and modern architectural patterns.",
+        "Mentored aspiring developers through personalized learning paths, guiding them from beginner to job-ready using project-based learning and Test-Driven Development (TDD).",
+        "Cultivated a strong peer-learning environment by encouraging pair programming, structured code reviews, and agile feedback cycles."
       ],
       "skills": [
-        "Kotlin",
-        "Coroutines",
-        "Functional Programming"
+        "Mobile Development",
+        "Kotlin Multiplatform",
+        "TDD",
+        "Mentoring"
       ]
     },
     {
-      "name": "Freelance",
-      "position": "Mobile Software Consultant",
+      "name": "Bubble",
+      "position": "Mobile Software Consultant (KMP Focus)",
       "location_type": "Remote",
       "location": "Remote",
       "startDate": "2021-03",
       "endDate": "2024-02",
-      "summary": "During this period, I worked as a Mobile Software Consultant, combining my leadership role at Bubble with consulting across various companies. My focus was on mobile development using Kotlin Multiplatform (KMP) to create cross-platform experiences.\n\nThis period emphasized my leadership, expertise in KMP, and the ability to drive innovation in mobile solutions.",
+      "summary": "Provided hands-on engineering and strategic guidance across multiple companies, focusing on scalable and maintainable codebases for Android and iOS.",
+      "url": "https://bubble.jesusdmedinac.com",
       "highlights": [],
       "responsibilities": [
-        "Founder & CEO, Bubble (2024 - Present): Led the development of a smartphone addiction management app, using AI-powered chats and Firebase Remote Config to personalize experiences and optimize updates. I oversaw A/B testing and feature rollouts to boost user engagement and retention.",
-        "Mobile Software Engineer, Beek.io (2022 - 2023): Developed a new audio player using Kotlin Multiplatform, SwiftUI, and Jetpack Compose. Implemented automated CI/CD pipelines with CircleCI and Fastlane, streamlining the development and deployment process.",
-        "Android Mobile Developer, Globant (2022): Analyzed projects written in Kotlin and Java, focusing on serverless, GraphQL, and RESTful APIs. Created detailed documentation and identified code improvement opportunities.",
-        "Android Engineer, Bitso (2021 - 2022): Integrated CleverTap using KMP, unifying codebases for Android and iOS. Streamlined development and reduced maintenance overhead while focusing on user acquisition strategies.",
-        "Senior Software Engineer Mobile, Dexcom (2021): Enhanced functionality and code quality for internal mobile apps. Introduced unit tests for Kotlin and Java SDKs, improving code coverage and stability."
+        "Led a codebase modernization initiative, guiding the transition from legacy implementations to modular, shared Kotlin packages.",
+        "Spearheaded the development of a smartphone addiction management app, optimized for long-term modular scalability.",
+        "Established robust CI/CD pipelines to automate builds, test suites, and deployments, accelerating release cycles while ensuring delivery quality.",
+        "Integrated AI-driven personalization and dynamic user experiences via Firebase Remote Config, enabling feature flagging for continuous UX experimentation."
       ],
       "skills": [
         "Android",
         "iOS",
         "Kotlin Multiplatform",
-        "Jetpack Compose",
-        "SwiftUI",
-        "Kotlin",
-        "Java",
-        "Kotlin Coroutines"
-      ]
-    },
-    {
-      "name": "arol.dev",
-      "position": "Kotlin Multiplatform Instructor",
-      "location_type": "Remote",
-      "location": "Remote",
-      "url": "https://www.arol.dev/",
-      "startDate": "2023-11",
-      "endDate": "2023-12",
-      "summary": "Developed comprehensive curriculum for Kotlin Multiplatform Course",
-      "highlights": [],
-      "responsibilities": [
-        "Kotlin Multiplatform for Android, iOS, Web, Desktop and Server",
-        "Clean Architecture on KMP.",
-        "Testing on KMP.",
-        "Compose Multiplatform.",
-        "How to introduce your teammates/company to use KMP.",
-        "Collaborated with Arol.dev team to refine course content including proposing subject list changes.",
-        "Created engaging learning materials",
-        "Articles.",
-        "Live sessions.",
-        "Codelabs.",
-        "Videos"
-      ],
-      "skills": [
-        "Kotlin",
-        "Kotlin Multiplatform",
-        "Compose Multiplatform",
-        "Swift (Programming Language)",
-        "SwiftUI"
+        "Firebase",
+        "CI/CD",
+        "Kotlin"
       ]
     },
     {
       "name": "Insulet Corporation",
-      "position": "Software Engineer",
+      "position": "Senior Mobile Engineer",
       "location_type": "On site",
       "location": "Tijuana, Baja California, Mexico",
       "startDate": "2019-11",
       "endDate": "2021-03",
-      "summary": "Spearheaded the development of the VIEW app, empowering caregivers to monitor the health of individuals with diabetes.",
+      "summary": "Spearheaded the development of the VIEW app, an innovative mobile solution empowering caregivers to remotely monitor the health of individuals living with diabetes.",
+      "url": "",
       "highlights": [],
       "responsibilities": [
-        "Led the creation of the VIEW app from scratch, enabling caregivers to remotely monitor the health status of individuals with diabetes.",
-        "Championed modern development practices, including Java and Kotlin for app development, unit testing, TDD (Test Driven Development), Room for data persistence, Clean Architecture, and DDD (Domain Driven Development).",
-        "Successfully developed and launched the VIEW app for Android.",
-        "Pioneered the transition from Java to Kotlin within the company, paving the way for a more modern development approach.",
-        "Successfully implemented TDD, setting a precedent for effective and efficient development practices.",
-        "Mentored junior engineers and trainees, fostering their growth and expertise.",
-        "Introduced KMP (Kotlin Multiplatform) as the first engineer within the company, successfully convincing management and the team to adopt it for the development of the CGM (Continuous Glucose Monitor) Graph, a critical component used across multiple Android and iOS applications."
+        "Led the end-to-end creation of the mobile applications from initial architecture to production release, enabling real-time health monitoring.",
+        "Advocated for modular architecture and shared domain layers, significantly enhancing code reuse, dependency isolation, and maintainability across platforms."
       ],
       "skills": [
         "Android",
@@ -171,49 +129,38 @@
       ]
     },
     {
-      "name": "ArkusNexus",
-      "position": "Full Stack Developer",
+      "name": "arkusnexus",
+      "position": "Senior Mobile Developer",
       "location_type": "On site",
       "location": "Tijuana, Baja California, Mexico",
       "startDate": "2019-04",
       "endDate": "2019-11",
-      "summary": "Developed the Simplicity app, a cutting-edge Android solution for auto insurance usage-based billing.\nEmpowered seniors to preserve memories and connect with loved ones through Rosy, an intelligent assistant for scanning and storytelling.",
+      "summary": "Contributed to Rosy (Memory Assistant) and Simplicity (Insurtech) cross-platform applications.",
+      "url": "",
       "highlights": [],
       "responsibilities": [
-        "Crafted the Simplicity app from the ground up, leveraging Android technologies to enable users to track their car usage and receive personalized insurance pricing.",
-        "Harnessing the power of Bluetooth, the app seamlessly connects to the user's vehicle, accurately capturing location data and calculating driving distances.",
-        "Utilized a robust tech stack, including Java for app development, XML for UI design, the native Bluetooth system, Room for data persistence, and Retrofit as an HTTP client.",
-        "Contributed to the development of Rosy, an innovative assistant that enables seniors to easily scan and store physical documents and photos, transforming them into cherished digital memories.",
-        "Leveraged Java expertise to resolve native system bugs, ensuring a seamless user experience.",
-        "Expanded Rosy's capabilities by implementing new functionalities using React Native, JavaScript, and JSX, empowering users to create and share stories associated with their scanned items.",
-        "Introduced voice-activated calling functionality utilizing text-to-speech technology, enabling hands-free communication and enhancing accessibility for seniors."
+        "Rosy (Memory Assistant): Contributed to an intelligent assistant designed to help seniors preserve memories. Contributed to a successful migration strategy from React Native, designing shared services for consistent feature parity.",
+        "Simplicity (Insurtech): Developed a cutting-edge cross-platform application that empowers users to track vehicle usage and receive personalized auto insurance pricing based on driving behavior."
       ],
       "skills": [
         "Java",
         "Android",
-        "JavaScript",
-        "React Native"
+        "React Native",
+        "Cross-platform"
       ]
     },
     {
       "name": "Compus Sistemas Express",
-      "position": "Native Android Developer",
+      "position": "Software Developer",
       "location_type": "On site",
       "location": "Tijuana, Baja California, Mexico",
-      "startDate": "2014-06",
-      "endDate": "2017-06",
-      "summary": "Spearheaded the digital transformation of a company's internal systems, streamlining operations and enhancing efficiency through a suite of Android applications",
+      "startDate": "2014-07",
+      "endDate": "2017-07",
+      "summary": "Spearheaded the digital transformation of enterprise operations by architecting a suite of applications, replacing outdated manual processes and significantly boosting efficiency.",
+      "url": "",
       "highlights": [],
       "responsibilities": [
-        "Led the development of multiple Android apps to replace legacy systems, including:",
-        "A streamlined process for purchasing used cars.",
-        "An efficient system for managing material inflow and outflow.",
-        "A collaborative network for branch managers to communicate and assist customers in locating used parts across branches.",
-        "Leveraged Java and XML to craft user-friendly and robust Android applications.",
-        "Architected and implemented a backend system utilizing vanilla PHP to generate JSONs consumed by the mobile apps.",
-        "Employed MySQL and DBase as the primary database solutions.",
-        "Developed SDKs to facilitate seamless REST API consumption from Android devices.",
-        "Implemented various backend algorithms, including PDF and XML generation, enhancing system functionality."
+        "Created reusable SDKs and service clients to standardize data access, minimizing duplicate logic and improving development velocity across internal projects."
       ],
       "skills": [
         "Android",
@@ -225,8 +172,7 @@
       ]
     }
   ],
-  "volunteer": [
-  ],
+  "volunteer": [],
   "education": [
     {
       "institution": "IUT de La Rochelle",
@@ -251,22 +197,22 @@
   ],
   "certificates": [
     {
-      "name": "Python Crash Course",
-      "date": "2024-09",
-      "issuer": "ITJ",
-      "url": "https://micoach.itj.com/candidate/622aae059cd99c00133f54e3/achievements/671be8eb2c9b4b9988af7cb1"
-    },
-    {
-      "name": "Architect Coders",
-      "date": "2020-04",
-      "issuer": "DevExpert.io",
-      "url": "https://members.architectcoders.com/verify-certificate/?id=122-158-819-3618"
+      "name": "Compose Expert",
+      "date": "2024",
+      "issuer": "Compose Expert",
+      "url": ""
     },
     {
       "name": "Kotlin para Desarrolladores Android",
       "date": "2019-09",
       "issuer": "DevExpert.io",
       "url": "https://hotmart.com/es/club/product/373977/certificate/556263c2-77d8-4160-a846-4c01cb51a617-476072313/validate"
+    },
+    {
+      "name": "Python Crash Course",
+      "date": "2024-09",
+      "issuer": "ITJ",
+      "url": "https://micoach.itj.com/candidate/622aae059cd99c00133f54e3/achievements/671be8eb2c9b4b9988af7cb1"
     }
   ],
   "skills": [
@@ -422,7 +368,7 @@
         "👩‍💻 ¿Tienes una idea o proyecto y necesitas ayuda para hacerlo realidad?",
         "👨‍💻 Desde nuestra Academia Desde0, te conectamos con practicantes talentosos que están listos para desarrollar tus sitios web y apps móviles sin costo."
       ],
-      "url": "https://desde0.jesusdmedinac.com"           
+      "url": "https://desde0.jesusdmedinac.com"
     },
     {
       "name": "Composy",
