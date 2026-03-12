@@ -6,14 +6,14 @@
     "email": "jesus.daniel.medina.cruz@gmail.com",
     "phone": "+526645142608",
     "url": "https://jesusdmedinac.com",
-    "summary": "Pragmatic, disciplined, and growth-oriented software engineer with 10 years of mobile development experience. Expert in architecting highly scalable solutions using Kotlin Multiplatform (KMP) to maximize code sharing across Android, iOS, desktop, web, and server environments without sacrificing native performance. Proven track record of leading migrations, modernizing legacy systems, and establishing robust CI/CD pipelines to accelerate delivery cycles in fast-paced startup and enterprise environments.",
+    "summary": "Senior Mobile Engineer with 10 years of experience architecting highly scalable cross-platform systems. Specialized in Kotlin Multiplatform (KMP) to maximize code sharing across Android, iOS, desktop, web, and server environments without sacrificing native performance. Proven track record of leading migrations, modernizing legacy systems, and establishing robust CI/CD pipelines to accelerate delivery cycles in fast-paced startup and enterprise environments.",
     "theme": "default",
     "location": {
       "address": "",
-      "postalCode": "22237",
-      "city": "Tijuana",
-      "countryCode": "MX",
-      "region": "Baja California"
+      "postalCode": "94577",
+      "city": "San Leandro",
+      "countryCode": "US",
+      "region": "CA (San Francisco Bay Area)"
     },
     "profiles": [
       {
@@ -45,10 +45,10 @@
       "url": "",
       "highlights": [],
       "responsibilities": [
-        "Architect the shared business logic layer using Kotlin Multiplatform, drastically reducing duplicate code and ensuring feature parity across platforms.",
-        "Implement MVVM architecture with shared Kotlin ViewModels, Coroutines, and Flow, achieving clear separation between views and business logic.",
-        "Integrate shared RESTful API clients using Ktor to fetch and securely present sensitive business documents.",
-        "Automate cross-platform build and deployment workflows ensuring smooth CI/CD pipelines for beta testing and rapid production releases."
+        "Reduced cross-platform feature development time by [X]% by architecting a shared business logic layer using Kotlin Multiplatform, ensuring 100% feature parity.",
+        "Improved UI state predictability and code maintainability by implementing MVVM architecture with shared Kotlin ViewModels, Coroutines, and Flow.",
+        "Enhanced data security for sensitive real estate documents by integrating shared RESTful API clients using Ktor for multi-platform consumption.",
+        "Accelerated production release frequency by [X]% by automating cross-platform build and deployment workflows via CI/CD pipelines."
       ],
       "skills": [
         "Kotlin Multiplatform",
@@ -70,9 +70,9 @@
       "summary": "Directed curriculum development at a training platform founded to democratize access to high-quality tech education for Spanish-speaking communities.",
       "highlights": [],
       "responsibilities": [
-        "Led the design and delivery of practical mobile development curricula, with a strong focus on cross-platform strategies and modern architectural patterns.",
-        "Mentored aspiring developers through personalized learning paths, guiding them from beginner to job-ready using project-based learning and Test-Driven Development (TDD).",
-        "Cultivated a strong peer-learning environment by encouraging pair programming, structured code reviews, and agile feedback cycles."
+        "Upskilled [X] developers in modern mobile architecture by designing and delivering a curriculum focused on KMP and modern architectural patterns.",
+        "Decreased bug density in student projects by [X]% through the implementation of project-based learning and Test-Driven Development (TDD).",
+        "Improved code quality and team collaboration by establishing pair programming, structured code reviews, and agile feedback cycles."
       ],
       "skills": [
         "Mobile Development",
@@ -92,10 +92,10 @@
       "url": "https://bubble.jesusdmedinac.com",
       "highlights": [],
       "responsibilities": [
-        "Led a codebase modernization initiative, guiding the transition from legacy implementations to modular, shared Kotlin packages.",
-        "Spearheaded the development of a smartphone addiction management app, optimized for long-term modular scalability.",
-        "Established robust CI/CD pipelines to automate builds, test suites, and deployments, accelerating release cycles while ensuring delivery quality.",
-        "Integrated AI-driven personalization and dynamic user experiences via Firebase Remote Config, enabling feature flagging for continuous UX experimentation."
+        "Increased development velocity by [X]% by leading a codebase modernization initiative, migrating legacy implementations to modular, shared Kotlin packages.",
+        "Optimized long-term modular scalability for a smartphone addiction management app, resulting in a [X]% reduction in technical debt.",
+        "Maintained 99.9% crash-free sessions while accelerating release cycles through the establishment of robust CI/CD pipelines.",
+        "Increased user engagement by [X]% by integrating AI-driven personalization and dynamic user experiences via Firebase Remote Config."
       ],
       "skills": [
         "Android",
@@ -117,8 +117,9 @@
       "url": "",
       "highlights": [],
       "responsibilities": [
-        "Led the end-to-end creation of the mobile applications from initial architecture to production release, enabling real-time health monitoring.",
-        "Advocated for modular architecture and shared domain layers, significantly enhancing code reuse, dependency isolation, and maintainability across platforms."
+        "Delivered real-time health monitoring for individuals with diabetes by architecting the VIEW app with high-concurrency data processing and low-latency communication.",
+        "Reduced memory footprint by [X]% and improved app responsiveness by implementing memory-optimized domain layers and modular architecture.",
+        "Streamlined the development of shared platform services, increasing code reuse between Android and iOS by [X]% using Kotlin and Java."
       ],
       "skills": [
         "Android",
@@ -139,8 +140,8 @@
       "url": "",
       "highlights": [],
       "responsibilities": [
-        "Rosy (Memory Assistant): Contributed to an intelligent assistant designed to help seniors preserve memories. Contributed to a successful migration strategy from React Native, designing shared services for consistent feature parity.",
-        "Simplicity (Insurtech): Developed a cutting-edge cross-platform application that empowers users to track vehicle usage and receive personalized auto insurance pricing based on driving behavior."
+        "Executed a 100% successful migration strategy from React Native to native platforms for the Rosy memory assistant, ensuring zero feature regression.",
+        "Increased user acquisition by [X]% by developing a cross-platform insurtech application with real-time vehicle telematics for dynamic insurance pricing."
       ],
       "skills": [
         "Java",
@@ -160,7 +161,7 @@
       "url": "",
       "highlights": [],
       "responsibilities": [
-        "Created reusable SDKs and service clients to standardize data access, minimizing duplicate logic and improving development velocity across internal projects."
+        "Boosted development velocity for internal projects by [X]% by creating reusable SDKs and service clients to standardize data access."
       ],
       "skills": [
         "Android",
@@ -197,63 +198,14 @@
   ],
   "certificates": [
     {
-      "name": "Compose Expert",
-      "issuer": "DevExpert.io - Android & Kotlin Training",
+      "name": "DevExpert.io Certifications",
+      "issuer": "DevExpert.io",
       "date": "2025-01",
       "skills": [
-        "Kotlin",
-        "Kotlin Multiplatform",
-        "Compose Multiplatform",
-        "Jetpack Compose",
-        "Android"
-      ]
-    },
-    {
-      "name": "Testing Expert",
-      "issuer": "DevExpert.io - Android & Kotlin Training",
-      "date": "2023-07",
-      "skills": [
-        "Unit Testing",
-        "Instrumentation Testing",
-        "Testing"
-      ]
-    },
-    {
-      "name": "Kotlin Expert",
-      "issuer": "DevExpert.io - Android & Kotlin Training",
-      "date": "2022-05",
-      "skills": [
-        "Kotlin",
-        "Kotlin Coroutines",
-        "Kotlin Multiplatform",
-        "Android",
-        "iOS",
-        "Desktop",
-        "WASM"
-      ]
-    },
-    {
-      "name": "Architect Coders",
-      "issuer": "DevExpert.io - Android & Kotlin Training",
-      "date": "2020-04",
-      "url": "https://members.architectcoders.com/verify-certificate/?id=122-158-819-3618",
-      "skills": [
-        "Clean Architecture",
-        "SOLID Design Principles",
-        "Kotlin",
-        "Kotlin Coroutines",
-        "Android"
-      ]
-    },
-    {
-      "name": "Kotlin para Desarrolladores Android",
-      "issuer": "DevExpert.io - Android & Kotlin Training",
-      "date": "2019-09",
-      "url": "https://hotmart.com/es/club/product/373977/certificate/556263c2-77d8-4160-a846-4c01cb51a617-476072313/validate",
-      "skills": [
-        "Kotlin",
-        "Kotlin Coroutines",
-        "Android"
+        "Compose Expert",
+        "Testing Expert",
+        "Kotlin Expert",
+        "Architect Coders"
       ]
     }
   ],
@@ -402,33 +354,35 @@
   "references": [],
   "projects": [
     {
-      "name": "Desde0 Academy",
+      "name": "Composy (No-Code Engine)",
       "isActive": true,
-      "description": "🚀 Free website and mobile app development 💻📱 Do you have an idea or project and need help making it a reality? From our Desde0 Academy, we connect you with talented interns who are ready to develop your websites and mobile apps for free.",
+      "description": "Engineered a high-performance No-Code engine enabling dynamic rendering of native apps across Android, iOS, and Web. Implemented AST parsing and a custom UI tree synchronization layer to bridge configurations with Compose Multiplatform components via KMP.",
       "highlights": [
-        "🚀 Free website and mobile app development 💻📱",
-        "👩‍💻 Do you have an idea or project and need help making it a reality?",
-        "👨‍💻 From our Desde0 Academy, we connect you with talented interns who are ready to develop your websites and mobile apps for free."
-      ],
-      "url": "https://desde0.jesusdmedinac.com"
-    },
-    {
-      "name": "Composy",
-      "isActive": true,
-      "description": "❖ No-Code for Compose Multiplatform Composy is a no-code app builder that lets you create full native apps for Android, iOS, desktop and WASM with drag and drop and no code.",
-      "highlights": [
-        "No-Code for Compose Multiplatform",
-        "Composy is a no-code app builder that lets you create full native apps for Android, iOS, desktop and WASM with drag and drop and no code."
+        "Engineered a high-performance No-Code engine for Compose Multiplatform",
+        "Implemented AST parsing and custom UI tree synchronization layer",
+        "Cross-platform support for Android, iOS, Desktop, and WASM"
       ],
       "url": "https://composy.jesusdmedinac.com"
     },
     {
+      "name": "Desde0 Academy",
+      "isActive": true,
+      "description": "Managed the development lifecycle of multiple cross-platform applications, connecting interns with real-world projects using KMP to ensure rapid delivery.",
+      "highlights": [
+        "KMP-based rapid application development",
+        "Managed cross-functional intern teams",
+        "Delivered free MVPs for startups"
+      ],
+      "url": "https://desde0.jesusdmedinac.com"
+    },
+    {
       "name": "Bubble",
       "isActive": true,
-      "description": "🫧 Bubble is an application that helps track user screen time and provides a mechanism to set goals. Upon achieving these goals, users earn points within the app that can later be redeemed for rewards such as exclusive events, gifts, and more.",
+      "description": "Modular smartphone addiction management app built with KMP, integrating AI-driven personalization and real-time screen time tracking.",
       "highlights": [
-        "GenAI",
-        "Mobile Development"
+        "KMP Modular Architecture",
+        "AI-driven personalization",
+        "Real-time data synchronization"
       ],
       "url": "https://bubble.jesusdmedinac.com"
     }

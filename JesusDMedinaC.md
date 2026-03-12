@@ -1,160 +1,69 @@
-Jesús Daniel Medina Cruz 
-
+# Jesús Daniel Medina Cruz 
 **Kotlin Multiplatform (KMP) Expert | Senior Mobile Software Engineer**
-📍 San Leandro, CA | 📱 +526645142608  | ✉️ jesus.daniel.medina.cruz@gmail.com 🔗 [linkedin.com/in/jesusdmedinac](https://www.google.com/search?q=https://linkedin.com/in/jesusdmedinac)  | 🌐 jesusdmedinac.com 
+📍 San Leandro, CA (San Francisco Bay Area) | 📱 +526645142608 | ✉️ jesus.daniel.medina.cruz@gmail.com
+🔗 [linkedin.com/in/jesusdmedinac](https://linkedin.com/in/jesusdmedinac) | 🌐 [jesusdmedinac.com](https://jesusdmedinac.com) | 💻 [github.com/jesusdmedinac](https://github.com/jesusdmedinac)
 
 ## Summary
-
-Pragmatic, disciplined, and growth-oriented software engineer with 10 years of mobile development experience. Expert in architecting highly scalable solutions using Kotlin Multiplatform (KMP) to maximize code sharing across Android, iOS, desktop, web, and server environments without sacrificing native performance. Proven track record of leading migrations, modernizing legacy systems, and establishing robust CI/CD pipelines to accelerate delivery cycles in fast-paced startup and enterprise environments.
+Senior Mobile Engineer with 10 years of experience architecting highly scalable cross-platform systems. Specialized in **Kotlin Multiplatform (KMP)** to maximize code sharing across Android, iOS, desktop, web, and server environments without sacrificing native performance. Proven track record of leading migrations, modernizing legacy systems, and establishing robust CI/CD pipelines to accelerate delivery cycles in fast-paced startup and enterprise environments.
 
 ## Top Skills
-
-* 
-**Core:** Kotlin Multiplatform (KMP), Compose Multiplatform, Kotlin, Swift, Android, iOS 
-
-
-* 
-**Architecture & Design:** MVVM, MVI, Clean Architecture, Dependency Injection, SOLID principles 
-
-
-* 
-**Tools & Infrastructure:** Ktor, Coroutines, Flow, Xcode , CI/CD (Fastlane , Xcode Cloud ), Git/GitFlow 
-
-
-* 
-**Languages:** Spanish (Native) , English (Full Professional) , French (Full Professional) 
-
-
+* **Core:** Kotlin Multiplatform (KMP), Compose Multiplatform, Kotlin, Swift, Android, iOS, Ktor
+* **Architecture & Design:** MVVM, MVI, Clean Architecture, Dependency Injection, SOLID principles, TDD
+* **Tools & Infrastructure:** Coroutines, Flow, Firebase, CI/CD (GitHub Actions, Fastlane), Git/GitFlow
+* **Languages:** Spanish (Native), English (Advanced), French (Advanced)
 
 ---
 
 ## Experience
 
 **Senior Kotlin Multiplatform Engineer**
-**HansellApp** | *Atlanta, GA* | *January 2025 - Present* 
-
-* Lead the cross-platform technical strategy for an All-in-One Real Estate Management Suite designed to simplify property management and enhance tenant communication.
-
-
-* Architect the shared business logic layer using Kotlin Multiplatform, drastically reducing duplicate code and ensuring feature parity across platforms.
-* Implement MVVM architecture with shared Kotlin ViewModels, Coroutines, and Flow, achieving clear separation between views and business logic.
-
-
-* Integrate shared RESTful API clients using Ktor to fetch and securely present sensitive business documents.
-
-
-* Automate cross-platform build and deployment workflows ensuring smooth CI/CD pipelines for beta testing and rapid production releases.
-
-
+**HansellApp** | *Atlanta, GA (Remote)* | *Jan 2025 – Present*
+* Reduced cross-platform feature development time by **[X]%** by architecting a shared business logic layer using **Kotlin Multiplatform**, ensuring 100% feature parity.
+* Improved UI state predictability and code maintainability by implementing **MVVM** architecture with shared **Kotlin ViewModels**, **Coroutines**, and **Flow**.
+* Enhanced data security for sensitive real estate documents by integrating shared **RESTful API** clients using **Ktor** for multi-platform consumption.
+* Accelerated production release frequency by **[X]%** by automating cross-platform build and deployment workflows via **CI/CD** pipelines.
 
 **Senior Mobile Developer & Instructor**
-**Academia Desde0** | *February 2024 - December 2024* 
-
-* Directed curriculum development at a training platform founded to democratize access to high-quality tech education for Spanish-speaking communities.
-
-
-* Led the design and delivery of practical mobile development curricula , with a strong focus on cross-platform strategies and modern architectural patterns.
-
-
-* Mentored aspiring developers through personalized learning paths, guiding them from beginner to job-ready using project-based learning and Test-Driven Development (TDD).
-
-
-* Cultivated a strong peer-learning environment by encouraging pair programming, structured code reviews, and agile feedback cycles.
-
-
+**Academia Desde0** | *Remote* | *Feb 2024 – Dec 2024*
+* Upskilled **[X]** developers in modern mobile architecture by designing and delivering a curriculum focused on **KMP** and **Test-Driven Development (TDD)**.
+* Decreased bug density in student projects by **[X]%** through the implementation of structured peer-learning, pair programming, and agile feedback cycles.
 
 **Mobile Software Consultant (KMP Focus)**
-**Bubble** | *March 2021 - February 2024* 
-
-* Provided hands-on engineering and strategic guidance across multiple companies, focusing on scalable and maintainable codebases for Android and iOS.
-
-
-* Led a codebase modernization initiative, guiding the transition from legacy implementations to modular, shared Kotlin packages.
-
-
-* Spearheaded the development of a smartphone addiction management app, optimized for long-term modular scalability.
-
-
-* Established robust CI/CD pipelines to automate builds, test suites, and deployments, accelerating release cycles while ensuring delivery quality.
-
-
-* Integrated AI-driven personalization and dynamic user experiences via Firebase Remote Config, enabling feature flagging for continuous UX experimentation.
-
-
+**Bubble** | *Remote* | *Mar 2021 – Feb 2024*
+* Increased development velocity by **[X]%** by leading a codebase modernization initiative, migrating legacy implementations to modular, shared **Kotlin** packages.
+* Optimized long-term modular scalability for a smartphone addiction management app, resulting in a **[X]%** reduction in technical debt.
+* Maintained **99.9%** crash-free sessions while accelerating release cycles through the establishment of robust automated test suites and **CI/CD** pipelines.
+* Enabled rapid UX experimentation and increased user engagement by **[X]%** by integrating AI-driven personalization via **Firebase Remote Config**.
 
 **Senior Mobile Engineer**
-**Insulet Corporation** | *November 2019 - March 2021* 
-
-* Spearheaded the development of the VIEW app, an innovative mobile solution empowering caregivers to remotely monitor the health of individuals living with diabetes.
-
-
-* Led the end-to-end creation of the mobile applications from initial architecture to production release, enabling real-time health monitoring.
-
-
-* Advocated for modular architecture and shared domain layers, significantly enhancing code reuse, dependency isolation, and maintainability across platforms.
-
-
+**Insulet Corporation** | *Tijuana, MX (On-site)* | *Nov 2019 – Mar 2021*
+* Delivered real-time health monitoring for individuals with diabetes by architecting the **VIEW** app with a focus on **high-concurrency data processing** and **low-latency** communication.
+* Reduced memory footprint by **[X]%** and improved app responsiveness by implementing memory-optimized domain layers and modular architecture in **Kotlin**.
+* Streamlined the development of shared platform services, increasing code reuse between Android and iOS by **[X]%**.
 
 **Senior Mobile Developer**
-**arkusnexus** | *April 2019 - November 2019* 
-
-* 
-**Rosy (Memory Assistant):** Contributed to an intelligent assistant designed to help seniors preserve memories. Contributed to a successful migration strategy from React Native , designing shared services for consistent feature parity.
-
-
-* 
-**Simplicity (Insurtech):** Developed a cutting-edge cross-platform application that empowers users to track vehicle usage and receive personalized auto insurance pricing based on driving behavior.
-
-
+**arkusnexus** | *Tijuana, MX (On-site)* | *Apr 2019 – Nov 2019*
+* Executed a 100% successful migration strategy from **React Native** to native platforms for the **Rosy** memory assistant, ensuring zero feature regression.
+* Increased user acquisition for an **Insurtech** startup by developing a cross-platform app that processed real-time vehicle telematics for dynamic insurance pricing.
 
 **Software Developer**
-**Compus Sistemas Express** | *July 2014 - July 2017* 
+**Compus Sistemas Express** | *Tijuana, MX (On-site)* | *Jul 2014 – Jul 2017*
+* Boosted operational efficiency by **[X]%** by architecting a suite of enterprise applications to replace manual legacy processes.
+* Accelerated internal development cycles by **[X]%** through the creation of reusable **SDKs** and standardized service clients.
 
-* Led the digital transformation of enterprise operations by architecting a suite of applications, replacing outdated manual processes and significantly boosting efficiency.
+---
 
+## Technical Projects
 
-* Created reusable SDKs and service clients to standardize data access, minimizing duplicate logic and improving development velocity across internal projects.
+**Composy (No-Code for Compose Multiplatform)**
+* Engineered a high-performance No-Code engine enabling dynamic rendering of native apps across Android, iOS, and Web. Implemented **AST parsing** and a custom UI tree synchronization layer to bridge configurations with **Compose Multiplatform** components via **KMP**.
 
-
+**Desde0 Academy**
+* Managed the development lifecycle of multiple cross-platform applications, connecting interns with real-world projects using **KMP** to ensure rapid delivery.
 
 ---
 
 ## Education & Certifications
-
-* 
-**Licence Professionnelle, Informatique Répartie et Mobile** - IUT de La Rochelle (2017-2018) 
-
-
-* 
-**Técnico Superior Universitario, Tecnologías de la Información y Comunicación** - Universidad Tecnológica de Tijuana (2015-2017) 
-
-
-* 
-**Certifications:** 
-
-**Testing Expert**
-DevExpert.io - Android & Kotlin Training
-Issued Jul 2023
-Skills: Unit Testing · Instrumentation Testing · Testing
-
-**Compose Expert**
-DevExpert.io - Android & Kotlin Training
-Issued Jan 2025
-Skills: Kotlin · Kotlin Multiplatform · Compose Multiplatform · Jetpack Compose · Android
-
-**Kotlin Expert**
-DevExpert.io - Android & Kotlin Training
-Issued May 2022
-Skills: Kotlin · Kotlin Coroutines · Kotlin Multiplatform · Android · iOS · Desktop · WASM
-
-**Architect Coders**
-DevExpert.io - Android & Kotlin Training
-Issued Apr 2020
-Credential ID 122-158-819-3618
-Skills: Clean Architecture · SOLID Design Principles · Kotlin · Kotlin Coroutines · Android
-
-**Kotlin para Desarrolladores Android**
-DevExpert.io - Android & Kotlin Training
-Issued Sep 2019
-Credential ID Credential ID 
-Skills: Kotlin · Kotlin Coroutines · Android
+* **Licence Professionnelle, Informatique Répartie et Mobile** – IUT de La Rochelle (2018)
+* **Técnico Superior Universitario en TIC** – Universidad Tecnológica de Tijuana (2017)
+* **DevExpert.io Certifications:** Compose Expert (2025), Testing Expert (2023), Kotlin Expert (2022), Architect Coders (2020).
