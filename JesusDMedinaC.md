@@ -130,4 +130,31 @@ Pragmatic, disciplined, and growth-oriented software engineer with 10 years of m
 
 
 * 
-**Certifications:** Compose Expert , Kotlin para Desarrolladores Android , Python Crash Course.
+**Certifications:** 
+
+**Testing Expert**
+DevExpert.io - Android & Kotlin Training
+Issued Jul 2023
+Skills: Unit Testing · Instrumentation Testing · Testing
+
+**Compose Expert**
+DevExpert.io - Android & Kotlin Training
+Issued Jan 2025
+Skills: Kotlin · Kotlin Multiplatform · Compose Multiplatform · Jetpack Compose · Android
+
+**Kotlin Expert**
+DevExpert.io - Android & Kotlin Training
+Issued May 2022
+Skills: Kotlin · Kotlin Coroutines · Kotlin Multiplatform · Android · iOS · Desktop · WASM
+
+**Architect Coders**
+DevExpert.io - Android & Kotlin Training
+Issued Apr 2020
+Credential ID 122-158-819-3618
+Skills: Clean Architecture · SOLID Design Principles · Kotlin · Kotlin Coroutines · Android
+
+**Kotlin para Desarrolladores Android**
+DevExpert.io - Android & Kotlin Training
+Issued Sep 2019
+Credential ID Credential ID 
+Skills: Kotlin · Kotlin Coroutines · Android

@@ -198,21 +198,63 @@
   "certificates": [
     {
       "name": "Compose Expert",
-      "date": "2024",
-      "issuer": "Compose Expert",
-      "url": ""
+      "issuer": "DevExpert.io - Android & Kotlin Training",
+      "date": "2025-01",
+      "skills": [
+        "Kotlin",
+        "Kotlin Multiplatform",
+        "Compose Multiplatform",
+        "Jetpack Compose",
+        "Android"
+      ]
+    },
+    {
+      "name": "Testing Expert",
+      "issuer": "DevExpert.io - Android & Kotlin Training",
+      "date": "2023-07",
+      "skills": [
+        "Unit Testing",
+        "Instrumentation Testing",
+        "Testing"
+      ]
+    },
+    {
+      "name": "Kotlin Expert",
+      "issuer": "DevExpert.io - Android & Kotlin Training",
+      "date": "2022-05",
+      "skills": [
+        "Kotlin",
+        "Kotlin Coroutines",
+        "Kotlin Multiplatform",
+        "Android",
+        "iOS",
+        "Desktop",
+        "WASM"
+      ]
+    },
+    {
+      "name": "Architect Coders",
+      "issuer": "DevExpert.io - Android & Kotlin Training",
+      "date": "2020-04",
+      "url": "https://members.architectcoders.com/verify-certificate/?id=122-158-819-3618",
+      "skills": [
+        "Clean Architecture",
+        "SOLID Design Principles",
+        "Kotlin",
+        "Kotlin Coroutines",
+        "Android"
+      ]
     },
     {
       "name": "Kotlin para Desarrolladores Android",
+      "issuer": "DevExpert.io - Android & Kotlin Training",
       "date": "2019-09",
-      "issuer": "DevExpert.io",
-      "url": "https://hotmart.com/es/club/product/373977/certificate/556263c2-77d8-4160-a846-4c01cb51a617-476072313/validate"
-    },
-    {
-      "name": "Python Crash Course",
-      "date": "2024-09",
-      "issuer": "ITJ",
-      "url": "https://micoach.itj.com/candidate/622aae059cd99c00133f54e3/achievements/671be8eb2c9b4b9988af7cb1"
+      "url": "https://hotmart.com/es/club/product/373977/certificate/556263c2-77d8-4160-a846-4c01cb51a617-476072313/validate",
+      "skills": [
+        "Kotlin",
+        "Kotlin Coroutines",
+        "Android"
+      ]
     }
   ],
   "skills": [
