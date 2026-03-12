@@ -404,11 +404,11 @@
     {
       "name": "Desde0 Academy",
       "isActive": true,
-      "description": "🚀 Desarrollo de sitios web y apps móviles GRATIS 💻📱 ¿Tienes una idea o proyecto y necesitas ayuda para hacerlo realidad? Desde nuestra Academia Desde0, te conectamos con practicantes talentosos que están listos para desarrollar tus sitios web y apps móviles sin costo.",
+      "description": "🚀 Free website and mobile app development 💻📱 Do you have an idea or project and need help making it a reality? From our Desde0 Academy, we connect you with talented interns who are ready to develop your websites and mobile apps for free.",
       "highlights": [
-        "🚀 Desarrollo de sitios web y apps móviles GRATIS 💻📱",
-        "👩‍💻 ¿Tienes una idea o proyecto y necesitas ayuda para hacerlo realidad?",
-        "👨‍💻 Desde nuestra Academia Desde0, te conectamos con practicantes talentosos que están listos para desarrollar tus sitios web y apps móviles sin costo."
+        "🚀 Free website and mobile app development 💻📱",
+        "👩‍💻 Do you have an idea or project and need help making it a reality?",
+        "👨‍💻 From our Desde0 Academy, we connect you with talented interns who are ready to develop your websites and mobile apps for free."
       ],
       "url": "https://desde0.jesusdmedinac.com"
     },
@@ -425,7 +425,7 @@
     {
       "name": "Bubble",
       "isActive": true,
-      "description": "🫧 Bubble es una aplicación que permite detectar el tiempo en pantalla de los usuarios y les brinda un mecanismo para definir objetivos que, al cumplirlos, otorgan puntos en la app que se utilizarán posteriormente para acceder a recompensas como eventos exclusivos, regalos y más.",
+      "description": "🫧 Bubble is an application that helps track user screen time and provides a mechanism to set goals. Upon achieving these goals, users earn points within the app that can later be redeemed for rewards such as exclusive events, gifts, and more.",
       "highlights": [
         "GenAI",
         "Mobile Development"
