@@ -41,7 +41,7 @@ import { certificates } from "@cv";
 				<h4>Certificates</h4>
 				<ul class="space-y-4 py-3 print:space-y-0">
 					{certificates.map(({ name, date, issuer, url }) => {
-						const certificateYear = new Date(date).getFullYear();
+						const certificateYear = new Date(date).getUTCFullYear();
 						return (
 							<div class="flex items-baseline">
 								<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2 hidden h-5 w-5 self-start md:inline-block print:hidden">
