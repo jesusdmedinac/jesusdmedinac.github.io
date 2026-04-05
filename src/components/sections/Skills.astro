@@ -11,13 +11,14 @@ import Git from "@/icons/git.astro";
 import GitHub from "@/icons/GitHub.astro";
 import Tailwind from "@/icons/tailwind.astro";
 import Next from "@/icons/next.astro";
-import { skills } from "@cv";
 import Swift from "@/icons/swift.astro";
 import SwiftUI from "@/icons/swiftui.astro";
 import Kotlin from "@/icons/kotlin.astro";
 import Flutter from "@/icons/flutter.astro";
 import Figma from "@/icons/Figma.astro";
 import Gitlab from "@/icons/Gitlab.astro";
+
+import { skills as defaultSkills } from "@cv";
 
 const SKILLS_ICONS: Record<string, any> = {
 	HTML,
@@ -38,9 +39,17 @@ const SKILLS_ICONS: Record<string, any> = {
 	Figma,
 	Gitlab,
 };
+
+interface Props {
+	cv?: any;
+	className?: string;
+}
+
+const { cv, className } = Astro.props;
+const skills = cv ? cv.skills : defaultSkills;
 ---
 
-<Section className={Astro.props.className} title="Skills">
+<Section className={className} title="Skills">
 	<ul class="[&>li>svg]:text-skin-hue inline-flex flex-wrap gap-6 [&>li>svg]:size-5 [&>li]:text-sm">
 		{
 			skills.map(({ name }) => {

@@ -1,0 +1,48 @@
+---
+import Layout from "@/layouts/Layout.astro";
+
+import About from "@/components/sections/About.astro";
+import Education from "@/components/sections/Education.astro";
+import Experience from "@/components/sections/Experience.astro";
+import Hero from "@/components/sections/Hero.astro";
+import Projects from "@/components/sections/Projects.astro";
+import Skills from "@/components/sections/Skills.astro";
+import Tail from "@/components/sections/Tail.astro";
+import KeyboardManager from "@/components/KeyboardManager.astro";
+import ThemeSwitch from "@/components/ThemeSwitch.astro";
+
+// Cargamos explícitamente la versión para Meta
+import cv from "../data/cv-meta.json";
+const { basics } = cv;
+const { name, label } = basics;
+---
+
+<Layout title={`${name} Portafolio (Meta) - ${label}`}>
+	<main class="relative grid max-w-7xl gap-12 p-8 max-sm:py-16 md:grid-cols-6 md:p-16 xl:gap-24 print:max-w-none print:grid-cols-1 print:gap-6">
+		<div class="space-y-6 md:col-span-2 print:col-span-1 print:grid print:grid-cols-2 print:gap-5 print:space-y-0">
+			<Hero cv={cv} />
+			<About cv={cv} />
+			<ThemeSwitch />
+		</div>
+		<div class="space-y-12 md:col-span-4 print:col-span-1 print:grid print:grid-cols-4 print:gap-2 print:space-y-0">
+			<Experience cv={cv} className="print:col-span-3" />
+			<Projects cv={cv} className="print:hidden" />
+			<Skills cv={cv} className="print:hidden" />
+			<Education cv={cv} className="order-first" />
+		</div>
+		<Tail />
+	</main>
+
+	<KeyboardManager />
+</Layout>
+
+<style>
+	@page {
+		size: auto;
+		margin: 0mm;
+	}
+	main {
+		margin: auto;
+		width: 100%;
+	}
+</style>

@@ -1,11 +1,19 @@
 ---
 import Section from "../Section.astro";
 
-import { education } from "@cv";
-import { certificates } from "@cv";
+import { education as defaultEducation, certificates as defaultCertificates } from "@cv";
+
+interface Props {
+	cv?: any;
+	className?: string;
+}
+
+const { cv, className } = Astro.props;
+const education = cv ? cv.education : defaultEducation;
+const certificates = cv ? cv.certificates : defaultCertificates;
 ---
 
-<Section className={Astro.props.className} title="Education">
+<Section className={className} title="Education">
 	<ul class="space-y-4 py-3 print:space-y-0">
 		{
 			education.map(({ institution, startDate, endDate, area, url }) => {

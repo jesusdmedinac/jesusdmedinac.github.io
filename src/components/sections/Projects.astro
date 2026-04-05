@@ -3,10 +3,18 @@ import Git from "@/icons/git.astro";
 import Arrow from "@/icons/Arrow.astro";
 import Section from "../Section.astro";
 
-import { projects } from "@cv";
+import { projects as defaultProjects } from "@cv";
+
+interface Props {
+	cv?: any;
+	className?: string;
+}
+
+const { cv, className } = Astro.props;
+const projects = cv ? cv.projects : defaultProjects;
 ---
 
-<Section className={Astro.props.className} title="Projects">
+<Section className={className} title="Projects">
 	<div class="grid grid-cols-1 gap-3 md:grid-cols-2 print:flex print:flex-col">
 		{
 			projects.map(({ url, description, highlights, name, isActive, github }) => {

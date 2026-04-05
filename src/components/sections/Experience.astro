@@ -1,6 +1,6 @@
 ---
 import Section from "../Section.astro"
-import { work } from "@cv"
+import { work as defaultWork } from "@cv"
 
 import HTML from "@/icons/html.astro"
 import CSS from "@/icons/css.astro"
@@ -35,8 +35,16 @@ const SKILLS_ICONS: Record<string, any> = {
   Kotlin,
   Flutter,
 }
+
+interface Props {
+  cv?: any;
+  className?: string;
+}
+
+const { cv, className } = Astro.props;
+const work = cv ? cv.work : defaultWork;
 ---
-<Section className={Astro.props.className} title="Experience">
+<Section className={className} title="Experience">
   <ul class="flex flex-col">
     {work.map(({ name, startDate, endDate, position, summary, responsibilities, achievements, url, skills, location, location_type }) => {
       const startYear = new Date(startDate).getFullYear()
