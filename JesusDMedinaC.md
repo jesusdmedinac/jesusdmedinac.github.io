@@ -1,14 +1,14 @@
 # Jesús Daniel Medina Cruz 
 **Kotlin Multiplatform (KMP) Expert | Senior Mobile Software Engineer**
 📍 San Leandro, CA (San Francisco Bay Area) | 📱 +14704061747 | ✉️ jesus.daniel.medina.cruz@gmail.com
-🔗 [linkedin.com/in/jesusdmedinac](https://linkedin.com/in/jesusdmedinac) | 🌐 [jesusdmedinac.com](https://jesusdmedinac.com) | 💻 [github.com/jesusdmedinac](https://github.com/jesusdmedinac)
+🔗 [linkedin.com/in/jesusdmedinac](https://linkedin.com/in/jesusdmedinac) | 🌐 [jesusdmedinac.com](https://jesusdmedinac.com) | 💻 [github.com/jesusdmedinac](https://github.com/jesusdmedinac) | 🐦 [x.com/jesusdmedinac](https://x.com/jesusdmedinac)
 
 ## Summary
 Senior Mobile Engineer with 10 years of experience architecting highly scalable cross-platform systems. Specialized in **Kotlin Multiplatform (KMP)** to maximize code sharing across Android, iOS, desktop, web, and server environments without sacrificing native performance. Proven track record of leading migrations, modernizing legacy systems, and establishing robust CI/CD pipelines to accelerate delivery cycles in fast-paced startup and enterprise environments.
 
 ## Top Skills
 * **Core:** Kotlin Multiplatform (KMP), Compose Multiplatform, Kotlin, Swift, Android, iOS, Ktor
-* **Architecture & Design:** MVVM, MVI, Clean Architecture, Dependency Injection, SOLID principles, TDD
+* **Architecture & Design:** MVVM, Clean Architecture, Dependency Injection, SOLID principles, TDD
 * **Tools & Infrastructure:** Coroutines, Flow, Firebase, CI/CD (GitHub Actions, Fastlane), Git/GitFlow
 * **Languages:** Spanish (Native), English (Advanced), French (Advanced)
 
@@ -34,12 +34,12 @@ Senior Mobile Engineer with 10 years of experience architecting highly scalable 
 * Increased development velocity by leading a codebase modernization initiative, migrating legacy implementations to modular, shared **Kotlin** packages.
 * Optimized long-term modular scalability for a smartphone addiction management app, resulting in a reduction in technical debt.
 * Maintained **99.9% crash-free sessions** while accelerating release cycles through the establishment of robust automated test suites and **CI/CD** pipelines.
-* Enabled rapid UX experimentation and increased user engagement by integrating AI-driven personalization via **Firebase Remote Config**.
+* Increased user engagement by integrating AI-driven personalization and dynamic user experiences via **Firebase Remote Config**.
 
 **Senior Mobile Engineer**
 **Insulet Corporation** | *Tijuana, MX (On-site)* | *Nov 2019 – Mar 2021*
 * Delivered real-time health monitoring for individuals with diabetes by architecting the **VIEW** app with a focus on **high-concurrency data processing** and **low-latency** communication.
-* Reduced memory footprint and improved app responsiveness by implementing memory-optimized domain layers and modular architecture in **Kotlin**.
+* Reduced memory footprint and improved app responsiveness by implementing memory-optimized domain layers and modular architecture.
 * Streamlined the development of shared platform services, increasing code reuse between Android and iOS using **Kotlin** and **Java**.
 
 **Senior Mobile Developer**
