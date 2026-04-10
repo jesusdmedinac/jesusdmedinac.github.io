@@ -27,6 +27,12 @@
 
 ---
 
+## Education
+*   **Ciclo Formativo de Grado Superior, Computer Technology/Computer Systems Technology** – Universidad Veracruzana (2018 – Jul 2023)
+*   **Academic Exchange** – Universidad de Sonora (Jan 2023 – May 2023)
+
+---
+
 ## Technical Skills
 *   **Languages:** Kotlin, Java.
 *   **Android Development:** Jetpack Compose, MVVM Architecture, Clean Architecture.

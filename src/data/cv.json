@@ -2,7 +2,7 @@
   "basics": {
     "name": "Justin Martinez",
     "label": "Android Developer | Kotlin | Jetpack Compose | MVVM | Clean Architecture",
-    "image": "/justin_avatar.png",
+    "image": "/me_avatar.jpg",
     "email": "juxo321@gmail.com",
     "phone": "",
     "url": "https://linkedin.com/in/justinhzd",
@@ -87,7 +87,30 @@
     }
   ],
   "volunteer": [],
-  "education": [],
+  "education": [
+    {
+      "institution": "Universidad Veracruzana",
+      "url": "",
+      "area": "Computer Technology/Computer Systems Technology",
+      "studyType": "Ciclo Formativo de Grado Superior",
+      "startDate": "2018",
+      "endDate": "2023-07",
+      "score": "",
+      "courses": [
+        "Kotlin"
+      ]
+    },
+    {
+      "institution": "Universidad de Sonora",
+      "url": "",
+      "area": "Academic Exchange",
+      "studyType": "Exchange Program",
+      "startDate": "2023-01",
+      "endDate": "2023-05",
+      "score": "",
+      "courses": []
+    }
+  ],
   "certificates": [],
   "skills": [
     {
